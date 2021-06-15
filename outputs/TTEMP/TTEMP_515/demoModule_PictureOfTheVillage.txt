@@ -1,0 +1,6452 @@
+
+#######################
+#######################
+VillageAgentStart TTEMP_515
+#----------------------
+HouseholdAgentStart 
+simId 48
+shpId 63
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 58.46917251979319
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 197
+age 325
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 7
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1412
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 196
+age 1132
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1132
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 195
+age 4324
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 194
+age 683
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 683
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 198
+age 5524
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 5
+shpId 10
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 27.89685750823153
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 25
+age 603
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 603
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 26
+age 643
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 643
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 54
+shpId 72
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine true
+latrineUsers false
+travelerHh true
+contRadiusHh 47.92386290444869
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 216
+age 3542
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -4
+timeToTheNextTravel 1
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 217
+age 936
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 936
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 58
+shpId 76
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 10.819829894743913
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 228
+age 2564
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 588
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 229
+age 4220
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 230
+age 627
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 627
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 231
+age 2590
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 232
+age 1107
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1107
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 1
+shpId 3
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 11.723071245331283
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 4
+age 3503
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 5
+age 133
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 133
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 6
+age 2187
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 7
+age 342
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 342
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 8
+age 653
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 653
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 9
+age 128
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 128
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 10
+age 548
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 548
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 11
+age 2407
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 4
+shpId 8
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine false
+latrineUsers true
+travelerHh false
+contRadiusHh 47.199797441368396
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 21
+age 368
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 368
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 22
+age 768
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 23
+age 1675
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1675
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 24
+age 1198
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 32
+shpId 44
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 35.89150587390824
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 132
+age 1018
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1018
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 131
+age 729
+latrineUser false
+tapeworm false
+traveling true
+traveler true
+travelDuration 2
+timeToTheNextTravel 6
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 729
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 2
+shpId 4
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 16.93163100839073
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 12
+age 1789
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1789
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 13
+age 591
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1724
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 14
+age 484
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 484
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 15
+age 1141
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 55
+shpId 73
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 9.487259417291892
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 219
+age 1570
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -4
+timeToTheNextTravel 1
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 218
+age 1371
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 220
+age 2367
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 63
+shpId 84
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 16.38761629194272
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 251
+age 1386
+latrineUser false
+tapeworm false
+traveling true
+traveler true
+travelDuration 1
+timeToTheNextTravel 10
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1279
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 254
+age 1796
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1796
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 250
+age 1145
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1145
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 253
+age 996
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 996
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 252
+age 1213
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1831
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 249
+age 1287
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 18
+shpId 26
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 25.08965848706094
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 76
+age 447
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -5
+timeToTheNextTravel 2
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 447
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 75
+age 18
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 18
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 77
+age 120
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 120
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 78
+age 248
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 65
+shpId 87
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine true
+latrineUsers false
+travelerHh false
+contRadiusHh 18.83177648406256
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 258
+age 1495
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1800
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 259
+age 4
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 4
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 260
+age 625
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1264
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 31
+shpId 43
+type family house
+pigOwner true
+corralUse never
+corral true
+latrine true
+latrineUsers true
+travelerHh true
+contRadiusHh 31.465306047136654
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 126
+age 4064
+latrineUser true
+tapeworm false
+traveling false
+traveler true
+travelDuration -4
+timeToTheNextTravel 6
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 129
+age 14
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 14
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 124
+age 754
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 128
+age 1331
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1188
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 130
+age 620
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 620
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 127
+age 2810
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 125
+age 1039
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 38
+shpId 51
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 37.54996257818449
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 153
+age 938
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 914
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 154
+age 647
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 647
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 155
+age 3177
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 156
+age 3855
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 157
+age 1894
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1894
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 67
+shpId 90
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 13.548155507113572
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 265
+age 616
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 616
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 12
+shpId 19
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 5.82346838408226
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 55
+age 190
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 190
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 56
+age 826
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 826
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 57
+age 46
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 46
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 58
+age 2161
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 59
+age 3125
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 49
+shpId 64
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 59.57901583977413
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 199
+age 2865
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 200
+age 237
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 237
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 201
+age 1917
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 7
+shpId 14
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine true
+latrineUsers true
+travelerHh false
+contRadiusHh 20.52073973671313
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 30
+age 3363
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 31
+age 1268
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 32
+age 3490
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 33
+age 2821
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 34
+age 386
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 386
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 35
+age 642
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 642
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 36
+age 711
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 711
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 29
+shpId 40
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 11.773471080450271
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 112
+age 2419
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 113
+age 3073
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 114
+age 1113
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1863
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 115
+age 4429
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 116
+age 1284
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1299
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 39
+shpId 52
+type family house
+pigOwner true
+corralUse never
+corral true
+latrine true
+latrineUsers false
+travelerHh true
+contRadiusHh 15.374289234572284
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 159
+age 585
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 585
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 158
+age 662
+latrineUser false
+tapeworm false
+traveling true
+traveler true
+travelDuration 2
+timeToTheNextTravel 13
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 662
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 21
+shpId 29
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 16.638758373798268
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 83
+age 2447
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 84
+age 2969
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 85
+age 1278
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 809
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 86
+age 1053
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1053
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 60
+shpId 79
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine true
+latrineUsers false
+travelerHh true
+contRadiusHh 18.189818343680287
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 238
+age 2580
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -3
+timeToTheNextTravel 2
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 237
+age 660
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 24
+shpId 32
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 24.753027429555633
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 96
+age 1666
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 97
+age 522
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 522
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 98
+age 783
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 99
+age 1763
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1763
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 100
+age 1764
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1764
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 14
+shpId 22
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine true
+latrineUsers false
+travelerHh true
+contRadiusHh 34.47057723173589
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 66
+age 2395
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 67
+age 2400
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1567
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 68
+age 3304
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 41
+shpId 54
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 26.675211694273496
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 165
+age 1006
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -6
+timeToTheNextTravel 3
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1006
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 164
+age 1741
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1741
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 162
+age 1779
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 166
+age 58
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 58
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 163
+age 1134
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1134
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 46
+shpId 60
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 14.469138292382485
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 184
+age 1920
+latrineUser false
+tapeworm false
+traveling true
+traveler true
+travelDuration 1
+timeToTheNextTravel 5
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 608
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 186
+age 165
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 165
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 187
+age 2239
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 185
+age 107
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 107
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 188
+age 945
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 945
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 64
+shpId 86
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 18.31708468774203
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 255
+age 11
+latrineUser false
+tapeworm false
+traveling true
+traveler true
+travelDuration 1
+timeToTheNextTravel 5
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 11
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 256
+age 1846
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1743
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 257
+age 1470
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1470
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 16
+shpId 24
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 23.692883370129284
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 71
+age 1652
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -7
+timeToTheNextTravel 1
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1652
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 62
+shpId 83
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine true
+latrineUsers false
+travelerHh false
+contRadiusHh 35.04940597679939
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 243
+age 1477
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1000
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 244
+age 1174
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1174
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 245
+age 2216
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 246
+age 1016
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1016
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 247
+age 3282
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 248
+age 748
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 748
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 40
+shpId 53
+type family house
+pigOwner true
+corralUse always
+corral true
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 14.126231466368356
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 160
+age 597
+latrineUser false
+tapeworm false
+traveling true
+traveler true
+travelDuration 1
+timeToTheNextTravel 4
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 597
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 161
+age 813
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 813
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 22
+shpId 30
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 25.125083360538692
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 87
+age 1215
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1215
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 88
+age 603
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 603
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 42
+shpId 55
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine true
+latrineUsers true
+travelerHh false
+contRadiusHh 28.2565860254395
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 167
+age 310
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 310
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 168
+age 2760
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 169
+age 1926
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 170
+age 1151
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1151
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 171
+age 890
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 890
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 10
+shpId 17
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine true
+latrineUsers false
+travelerHh true
+contRadiusHh 24.091750854256688
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 44
+age 2473
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -1
+timeToTheNextTravel 4
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 47
+age 1095
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1095
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 50
+age 871
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 506
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 45
+age 549
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 549
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 49
+age 1028
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1028
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 46
+age 782
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 51
+age 1998
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 48
+age 917
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 917
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 3155
+age 576
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 2
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 2
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 20
+shpId 28
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine true
+latrineUsers false
+travelerHh true
+contRadiusHh 26.993546835713392
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 82
+age 585
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -3
+timeToTheNextTravel 4
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 585
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 0
+shpId 2
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 32.00645921456579
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 2
+age 343
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -3
+timeToTheNextTravel 2
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 343
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 1
+age 1247
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1247
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 0
+age 1643
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1904
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 3
+age 1085
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1085
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 19
+shpId 27
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 42.57084033626868
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 79
+age 443
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 443
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 80
+age 2256
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 81
+age 1053
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 61
+shpId 81
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 27.81913243575054
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 239
+age 531
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 531
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 240
+age 2030
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 241
+age 714
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 714
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 242
+age 130
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 130
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 3159
+age 4328
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 4
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 0
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 51
+shpId 66
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 18.921414285510874
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 203
+age 2166
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 758
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 204
+age 1219
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1219
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 205
+age 210
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 210
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 13
+shpId 20
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 42.84985134391981
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 60
+age 488
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 488
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 61
+age 1725
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1725
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 62
+age 321
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 321
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 63
+age 544
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 544
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 64
+age 1026
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1026
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 65
+age 1776
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1255
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 15
+shpId 23
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 9.061462391763335
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 69
+age 1286
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -8
+timeToTheNextTravel 3
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 70
+age 2604
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 59
+shpId 77
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine true
+latrineUsers false
+travelerHh false
+contRadiusHh 26.322373010840813
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 233
+age 113
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 113
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 234
+age 925
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 925
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 235
+age 2828
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 236
+age 3490
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 36
+shpId 48
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 18.105394919537748
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 148
+age 3438
+latrineUser false
+tapeworm false
+traveling true
+traveler true
+travelDuration 1
+timeToTheNextTravel 6
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 147
+age 2355
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 149
+age 131
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 131
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 50
+shpId 65
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine true
+latrineUsers false
+travelerHh true
+contRadiusHh 16.073557281041243
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 202
+age 998
+latrineUser false
+tapeworm false
+traveling true
+traveler true
+travelDuration 4
+timeToTheNextTravel 10
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 998
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 8
+shpId 15
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine true
+latrineUsers false
+travelerHh false
+contRadiusHh 26.148721895709052
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 37
+age 565
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 565
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 38
+age 801
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 801
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 39
+age 4324
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 40
+age 2656
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 41
+age 217
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 217
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 53
+shpId 68
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 44.531564532774794
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 214
+age 2982
+latrineUser false
+tapeworm false
+traveling true
+traveler true
+travelDuration 1
+timeToTheNextTravel 8
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1888
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 212
+age 380
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 15
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 211
+age 472
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 472
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 210
+age 888
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 888
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 213
+age 109
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 109
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 215
+age 566
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 566
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 33
+shpId 45
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 9.338020109157776
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 133
+age 354
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 354
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 134
+age 2401
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1378
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 135
+age 2030
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 136
+age 1962
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 137
+age 226
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 226
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 138
+age 1504
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1504
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 139
+age 1177
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 468
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 57
+shpId 75
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 17.744057987550068
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 227
+age 3526
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 44
+shpId 57
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine true
+latrineUsers false
+travelerHh false
+contRadiusHh 27.521535846115906
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 174
+age 1142
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1142
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 175
+age 2656
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 176
+age 1314
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1314
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 177
+age 2650
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 178
+age 1163
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1163
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 179
+age 1907
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 180
+age 376
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 376
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 181
+age 2395
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 66
+shpId 88
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 37.325559579657074
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 262
+age 492
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 7
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 492
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 261
+age 265
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 265
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 263
+age 542
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 542
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 264
+age 1750
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1280
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 27
+shpId 37
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 18.18595092593334
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 106
+age 1121
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1121
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 107
+age 631
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 631
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 108
+age 1255
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1255
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 17
+shpId 25
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 20.08503071941985
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 73
+age 1127
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -4
+timeToTheNextTravel 4
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1127
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 74
+age 1244
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 72
+age 236
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 236
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 25
+shpId 34
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers true
+travelerHh false
+contRadiusHh 41.31995837053773
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 101
+age 3542
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 102
+age 1501
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1501
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 103
+age 1234
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1234
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 104
+age 38
+latrineUser true
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 38
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 28
+shpId 38
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 15.636818946320377
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 109
+age 288
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 288
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 110
+age 551
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 551
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 111
+age 478
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 478
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 47
+shpId 62
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 24.309964545961844
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 193
+age 1926
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 191
+age 2463
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 190
+age 1617
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -1
+timeToTheNextTravel 6
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1617
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 192
+age 1775
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1775
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 189
+age 419
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 419
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 3
+shpId 7
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 18.10614591405474
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 16
+age 532
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 532
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 17
+age 1663
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1663
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 18
+age 2806
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 19
+age 588
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 588
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 20
+age 440
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 440
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 56
+shpId 74
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine true
+latrineUsers false
+travelerHh false
+contRadiusHh 6.959744581944177
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 221
+age 814
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1839
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 222
+age 1428
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1428
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 223
+age 55
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 55
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 224
+age 1210
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 225
+age 1263
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1263
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 226
+age 1350
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 52
+shpId 67
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 19.06801713179792
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 206
+age 1212
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1212
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 207
+age 787
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 787
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 208
+age 1347
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1347
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 209
+age 3959
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 9
+shpId 16
+type family house
+pigOwner true
+corralUse sometimes
+corral true
+latrine true
+latrineUsers false
+travelerHh true
+contRadiusHh 9.981854006732782
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 42
+age 1757
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -2
+timeToTheNextTravel 6
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1388
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 43
+age 916
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 916
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 45
+shpId 58
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine true
+latrineUsers false
+travelerHh false
+contRadiusHh 19.794837459997837
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 182
+age 102
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 102
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 183
+age 1527
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 23
+shpId 31
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 21.22243436552566
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 91
+age 77
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 77
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 93
+age 1597
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -2
+timeToTheNextTravel 4
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1597
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 89
+age 1545
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1545
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 95
+age 573
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 573
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 90
+age 1772
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1772
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 94
+age 3036
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1074
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 92
+age 883
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 11
+shpId 18
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 19.475288731568366
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 52
+age 809
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 809
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 53
+age 120
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 120
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 54
+age 3073
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 35
+shpId 47
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 17.72628572913197
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 146
+age 851
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration -3
+timeToTheNextTravel 2
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 800
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 144
+age 1682
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1682
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 145
+age 805
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 805
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 6
+shpId 12
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 11.734876226091625
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 27
+age 2760
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 28
+age 1459
+latrineUser false
+tapeworm false
+traveling true
+traveler true
+travelDuration 2
+timeToTheNextTravel 3
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1459
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 29
+age 429
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 429
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 30
+shpId 41
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 33.899712443963985
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 122
+age 1896
+latrineUser false
+tapeworm false
+traveling true
+traveler true
+travelDuration 5
+timeToTheNextTravel 6
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1896
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 119
+age 995
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 995
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 117
+age 1259
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 118
+age 1038
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 539
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 120
+age 441
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 441
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 123
+age 567
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 567
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 121
+age 1847
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 43
+shpId 56
+type family house
+pigOwner false
+corralUse 
+corral false
+latrine true
+latrineUsers false
+travelerHh true
+contRadiusHh 17.28483344216439
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 173
+age 392
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 392
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 172
+age 2475
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 6
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 37
+shpId 49
+type family house
+pigOwner true
+corralUse never
+corral true
+latrine true
+latrineUsers false
+travelerHh false
+contRadiusHh 15.917582975278453
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 150
+age 3647
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 151
+age 745
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 152
+age 1696
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 34
+shpId 46
+type family house
+pigOwner true
+corralUse never
+corral true
+latrine false
+latrineUsers false
+travelerHh true
+contRadiusHh 13.669565484892635
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 142
+age 480
+latrineUser false
+tapeworm false
+traveling false
+traveler true
+travelDuration 0
+timeToTheNextTravel 6
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 480
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 140
+age 260
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 260
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 141
+age 541
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 541
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+#----------------------
+HumanAgentStart 
+identity 143
+age 2432
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1926
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 
+#----------------------
+HouseholdAgentStart 
+simId 26
+shpId 35
+type family house
+pigOwner true
+corralUse never
+corral false
+latrine false
+latrineUsers false
+travelerHh false
+contRadiusHh 64.28941209870622
+lightInfectedPorkMeal 0
+heavyInfectedPorkMeal 0
+HouseholdAgentDataEnd 
+#----------------------
+HumanAgentStart 
+identity 105
+age 1475
+latrineUser false
+tapeworm false
+traveling false
+traveler false
+travelDuration 0
+timeToTheNextTravel 0
+timeSinceInfection 0
+infectionDuration 0
+tapeworm false
+tapewormMature false
+screenPos false
+eligible false
+numWeekSteps 1475
+famRelation 
+HumanAgentDataEnd 
+HumanAgentEnd 
+HouseholdAgentEnd 

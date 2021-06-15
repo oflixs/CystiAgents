@@ -1,0 +1,77 @@
+Changes in abc 2.1
+============================
+
+---------
+  o Remove a bug in the cv4abc function. It is now possible to use the argument hcorr in this function.
+  o Remove the line 
+   desc <- packageDescription("GWRM")
+   in the CITATION file
+  
+Changes in abc 2.0
+============================
+
+---------
+  o Include goodness-of-fit functions (gfit, plot.gfit, summary.gfit, is.gfit and gfitpca) written by Louisiane Lemaire.
+  
+
+Changes in abc 1.8
+============================
+
+---------
+  o The problem in the abc function that arises when using kernel="gaussian" is fixed
+  o Checking dependencies in R code ... NOTE
+  ‘library’ or ‘require’ call to ‘nnet’ which was already attached by Depends.
+  Please remove these calls from your code. 
+	require(nnet) removed from postpr.R
+  o Changes in the details of the summary.cv4abc.Rd function
+  o Compression of the data with the resaveRdaFiles function  (package tools ) 
+  	
+	
+Changes in abc 1.7
+============================
+
+---------
+  o In the getmode function of the abc.R file
+  		d$x[which(d$y == max(d$y))] replaced by  d$x[which(d$y == max(d$y))][1]
+  o In the cv4postpr function
+  	The line
+  	 subres <- withCallingHandlers( postpr(target = mytarget, index = myindex, sumstat = mysumstat, tol=mytol,
+                         subset = mysubset, method = method, kernel = kernel), warning = namesWarningFilter)
+    has been changed and there is no call to withCallingHandlers anymore
+
+
+Changes in abc 1.6
+============================
+
+---------
+  o Add 2 times (mnlogistic and neural net)
+  		ss<-data.frame(ss)
+        colnames(ss)<-statnames 
+        in postpr so that mnlogistic and neural net work when there is only one sum stat
+  o Michael Blum is the unique maintainer conforming to the new CRAN policy
+
+  o Michael Blum is the unique maintainer conforming to the new CRAN policy
+
+
+Changes in abc 1.5
+============================
+
+---------
+  o Add the reference to the MEE paper in the CITATION file and in the vignette
+  try and enjoy
+  >if(nchar(system.file(package="abc"))) citation("abc")
+  o Add the AIC and BIC computation in the abc function.
+  They are used to select a subset of informative statistics.
+  It is the AIC/BIC of the local linear regression that is returned.
+
+Changes in abc 2.1
+============================
+
+--------- 
+  o Thanks to the work of Louisiane Lemaire, two new functions, gfit
+  and gfitpca, were added to the package along with a plot and summary
+  S3 method for gfit to perform a goodness of fit. gfit tests if the
+  model preferred with postpr provides a good fit to the data
+
+  o A separate data package (abc.data) was developped to store the
+  package's three data sets

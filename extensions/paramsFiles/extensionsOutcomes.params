@@ -1,0 +1,178 @@
+#####################################################
+#Extension to MASON agent-based toolkit
+#Creation date: 12/13/2019
+#Extensions include: ABC, outcomePool sensitivityAnalysis
+#####################################################
+#Comments : lines starting with #, 
+#lines with only whitespaces will be ingored
+#Format: parameterName whitespace value whitespace value ....
+# no '=' signs
+#Parameters names are case sensitive
+#Comments and explanations about paramenter are shown in the lines 
+#above the paramenter input lines
+#####################################################
+#the extension toolkit produces a set of outPoolNRuns simulations with
+#same paramenters and average all the relavant model descriptors
+#in a single output file
+#the following parameters are used for any mode value
+#####################################################
+simName TTEMP
+#Number of steps (weeks) of each simulation 
+#(this overwrites the ABM sim input parameter numSteps)
+outPoolNumSteps 10000
+#Number of burnin steps (during burnin no statistics are 
+#accumulated) of each simulation
+#(this overwrites the ABM sim input parameter burninPeriod)
+outPoolBurninPeriod 3500
+#number of runs in the outcomes pool (num repetitions of the same simulation)
+outPoolNRuns 750
+#Max number of core used for simulations 
+maxNumCores 16
+#tre if the ABM core have to print an extended uotput to the
+#standard output. 
+extendedCoreOutput false
+#switch on (true) and off (false) the human cysticercosis component
+cystiHumans false
+#-----------------------------------------------------
+#deterministicindividualsallocation (dia) activates the dia 
+#(deterministic individuals allocation) can be: 
+#reads  villages populations from file
+#write to write villages populations to file
+#false to use the random individuals allocation
+deterministicIndividualsAllocation false
+#To read the pop features from survey file
+#if true deterministicIndividualsAllocation is set false
+readPopFromFile true
+#-----------------------------------------------------
+# villages included in the simulation
+#villagesNames TTEMP_515
+villagesNames TTEMP_515 TTEMP_566 TTEMP_567
+#villagesNames TTEMP_507 TTEMP_510 TTEMP_517 TTEMP_568 TTEMP_569
+
+#villagesNames TTEMP_515
+#villagesNames TTEMP_566
+#villagesNames TTEMP_567
+#
+#villagesNames Gates_024_trans
+#villagesNames Gates_024_trans
+#villagesNames Gates_017_proj
+#villagesNames R01_582_proj
+#villagesNames Gates_008_trans Gates_009_trans 
+#villagesNames Gates_008_trans Gates_009_trans Gates_011_proj Gates_012_proj Gates_013_proj 
+
+#villagesNames Gates_008_trans R01_571_proj R01_579_trans
+#villagesNames Gates_008_trans Gates_009_trans Gates_011_proj Gates_012_proj Gates_013_proj Gates_014_proj Gates_015_proj Gates_016_proj Gates_017_proj R01_587_trans R01_588_proj R01_589_proj R01_590_proj R01_591_trans
+#villagesNames Gates_008_trans Gates_009_trans Gates_011_proj Gates_012_proj Gates_013_proj Gates_014_proj Gates_015_proj Gates_016_proj Gates_017_proj 
+
+#villagesNames Gates_008_trans Gates_009_trans Gates_011_proj Gates_012_proj Gates_013_proj Gates_014_proj Gates_015_proj Gates_016_proj Gates_017_proj Gates_018_trans Gates_019_proj Gates_020_proj Gates_021_trans Gates_022_trans Gates_023_trans Gates_024_trans R01_563_trans R01_570_trans R01_571_proj R01_572_proj R01_573_proj R01_575_trans R01_576_trans R01_577_proj R01_578_proj R01_579_trans R01_580_proj R01_581_proj R01_582_proj R01_583_proj R01_584_proj R01_585_trans R01_586_trans R01_587_trans R01_588_proj R01_589_proj R01_590_proj R01_591_trans
+
+#villagesNames Gates_008_trans Gates_009_trans R01_590_proj R01_591_trans
+#villagesNames Gates_008_trans Gates_009_trans
+
+#villagesNames Gates_008_trans Gates_009_trans Gates_011_proj Gates_012_proj Gates_013_proj Gates_014_proj Gates_015_proj Gates_016_proj Gates_017_proj Gates_018_trans Gates_019_proj Gates_020_proj Gates_021_trans Gates_022_trans Gates_023_trans Gates_024_trans R01_563_trans R01_570_trans R01_571_proj R01_572_proj R01_573_proj R01_575_trans R01_576_trans R01_577_proj R01_578_proj R01_579_trans R01_580_proj R01_581_proj R01_582_proj R01_583_proj R01_584_proj R01_585_trans R01_586_trans R01_587_trans R01_588_proj R01_589_proj R01_590_proj R01_591_trans
+#
+#####################################################
+#mode establish the extension to be used
+#####################################################
+#outcomePool = only an outcomes pool for each village
+#specified in the worldInput file is simulated. The same
+#parameters are used in each simulation in the pool 
+mode outcomesPool
+#outputs in CystiAgents/outputs/simName
+######################################################
+#mode sensitivityAnalysis
+#Number of point for each parameters. The total number of simulations 
+#wil be: 2 * numPointsSensi *( num paramenters + 1)
+numPointsSensi 2
+#observables to be included in the sensistivity analysis
+#can be:  tn (human taeniasis) cyst (pig cystercicosys) and
+#necroDist (distance between observed and simulated distrubution of number of cysts in 
+#the pig population)
+sensiObs tn cyst necroDist 
+#file parameters ranges for sensitivity analysis
+fileParametersRangeSensitivityAnalysis ./inputData/parametersRangeSensitivityAnalysis.txt
+#parameters included in the sensitivity analysis 
+#(mandatory: same parameters names used in ABM simulations inputs
+#ATT: parameters names are case sensitive)
+sensiParams pigProglotInf pigEggsInf pHumanCyst
+#####################################################
+#calibrationABC = the model is be calibrated following the
+#aproximate Bayeasian Computation methods tuning the
+#parABC model parameter. 
+mode ABCCalibration
+#Name of the ABC set
+nameSuffix TTEMP
+#parameters that will be changed during the ABC calibration
+#Att. : only the parameters that are listed here
+#are actually varied. If a parameter is listed in the
+#filePriorABC file but not here its value is mantained constant
+#paraABCLocal: calibration parameters that depend on the single village
+#paraABCGlobal: calibration parameters that do not depend on the single village
+#Names of parABCLoca and paraABCGlobal must correspond to
+#the parameters names in the filePriorABC file. 
+#If no local or global parameters have to be changed the 
+#input is none
+#paraABCLocal pigPHomeArea
+#paraABCLocal adherenceToLatrineUse 
+paraABCLocal 
+#paraABCLocal lightFromAllPig heavyFromAllPig
+#paraABCGlobal: tuning parameters that do not depend on
+#the village
+#paraABCGlobal pl2Human ph2Human heavyInfPig lightInfPig
+paraABCGlobal pigProglotInf pigEggsInf pHumanCyst
+#The observed data agaist which the model is calibrated 
+#are contained in the fileObsABC file
+fileObsABC ./inputData/fileObsABC.xlsx
+#If the number of cysts distribution from necroscopy data is used 
+necroData true
+#to add the necro dist to the runs dists
+addNecroDist false
+#file where the necroscopy data are 
+necroscopyDataFile ./inputData/TTEMP_necroscopyData.xls
+#fileParametersRange specifies the variation range of parameters for ABC or sensitivity
+#analysis
+fileParametersRange ./inputData/parametersRange.txt
+#Observable used to generate the summary statistics
+obsABC tn cysti
+#obsABCGates tn cysti
+#obsABCR01 tn cysti
+#obsABCGates tn light_alt2 heavy_alt2
+#obsABCR01 tn light_alt2 heavy_alt2
+#the metric used to calculate the distance between observed and 
+#simulated data is specified by the metricABC parameter 
+#(not active: the metric IS Eclidean)
+metricABC euclidean
+#if euclidean metric for distances is used summry statistics can be recaled using
+#the following recaling factors: 
+#output summary statistics MAD (median absolute deviation) - mad
+#output summary statistics observed value 
+#none - none
+distanceScalingFactor observedValue
+#the following parameter is true if only 1 run (village or group of villages)
+#per cpu is launched. If false the maximum amount of runs is launche
+#considered the number of available processor
+#Only for parallel clusters use
+serialRun false
+#Next parameter is set if only analysis of ABC output is required 
+onlyAnalysisABC false
+#Number of stages of sequential Montecarlo ABC
+numStagesABC 6
+#num of calibration point for stage0 stage1 .... stageN 
+#if numStages > num stages listed, the stages in outnumber will be
+#associated with the last number of point of the last element of 
+numPointsABC 120000 120000 120000 120000 120000 
+#threshold for stage0 threshold for stage2 .... treashold for stageN
+#same as for num simulations if num threshold listed < numStagesABC
+thresholdsABC 0.00015 0.00015 0.00015 0.00015 0.00015
+#methods to select claibration points in the input parameters space
+#between the upper and the lower limit of prior uniform distribution
+#specified in file fielParametersRange
+#can be randomUniform or sobolUniform or gauss
+uniformSelectionMethodABC randomUniform
+#prioduce the graph of ABC convergence. Very slow do not use it if not necessary
+convergenceABC false
+#write ABC R analysis files
+writeABCRFiles true
+
+#####################################################
+

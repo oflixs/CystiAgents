@@ -1,0 +1,6 @@
+#variation ranges of model parameters for ABC or sensistivity analysis
+#format: parameter name lower-limit upper-limit
+pigEggsInf 0 200.0
+pigProglotInf 10 1500
+pHumanCyst 0.0 0.001
+pigPHomeArea 0.70 1.0

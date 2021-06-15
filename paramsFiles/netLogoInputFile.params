@@ -1,0 +1,496 @@
+#this is a copy past form the Ian NetLogo CystiAgent model.
+to setup-villages
+  if dataset = 563 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_563_trans.shp"
+    set hor 140
+    set ver 200
+    set baseline-light-infection 0.1558
+    set baseline-heavy-infection 0.0638
+    set baseline-tn-prev 0.0267
+    set prop-latrines 0.39
+    set humans-per-household 3.95
+    set prop-pig-owners 0.49
+    set pigs-per-household 2.96
+    set prop-corrals 0.35]
+ if dataset = 570 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_570_trans.shp"
+    set hor 200
+    set ver 100
+    set baseline-light-infection 0.0729
+    set baseline-heavy-infection 0.0298
+    set baseline-tn-prev 0.0114
+    set prop-latrines 0.91
+    set humans-per-household 4.05
+    set prop-pig-owners 0.35
+    set pigs-per-household 2.85
+    set prop-corrals 0.60]
+  if dataset = 571 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_571_proj.shp"
+    set hor 140
+    set ver 140
+    set baseline-light-infection 0.0188
+    set baseline-heavy-infection 0.0064
+    set baseline-tn-prev 0.0068
+    set prop-latrines 0.68
+    set humans-per-household 3.41
+    set prop-pig-owners 0.32
+    set pigs-per-household 2.63
+    set prop-corrals 0.47]
+ if dataset = 572 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_572_proj.shp"
+    set hor 140
+    set ver 200
+    set baseline-light-infection 0.0741
+    set baseline-heavy-infection 0.0303
+    set baseline-tn-prev 0.0116
+    set prop-latrines 0.73
+    set humans-per-household 3.81
+    set prop-pig-owners 0.48
+    set pigs-per-household 2.52
+    set prop-corrals 0.62]
+ if dataset = 573 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_573_proj.shp"
+    set hor 200
+    set ver 140
+    set baseline-light-infection 0.0928
+    set baseline-heavy-infection 0.0380
+    set baseline-tn-prev 0.0140
+    set prop-latrines 0.69
+    set humans-per-household 3.61
+    set prop-pig-owners 0.54
+    set pigs-per-household 2.92
+    set prop-corrals 0.71]
+if dataset = 575 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_575_trans.shp"
+    set hor 90
+    set ver 200
+    set baseline-light-infection 0.1190
+    set baseline-heavy-infection 0.0487
+    set baseline-tn-prev 0.0183
+    set prop-latrines 0.26
+    set humans-per-household 4.12
+    set prop-pig-owners 0.60
+    set pigs-per-household 2.51
+    set prop-corrals 0.29]
+if dataset = 576 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_576_trans.shp"
+    set hor 85
+    set ver 200
+    set baseline-light-infection 0.1221
+    set baseline-heavy-infection 0.0500
+    set baseline-tn-prev 0.0189
+    set prop-latrines 0.19
+    set humans-per-household 3.32
+    set prop-pig-owners 0.58
+    set pigs-per-household 3.41
+    set prop-corrals 0.65]
+if dataset = 577 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_577_proj.shp"
+    set hor 200
+    set ver 150
+    set baseline-light-infection 0.1084
+    set baseline-heavy-infection 0.0444
+    set baseline-tn-prev 0.0164
+    set prop-latrines 0.70
+    set humans-per-household 3.43
+    set prop-pig-owners 0.41
+    set pigs-per-household 1.74
+    set prop-corrals 0.61]
+if dataset = 578 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_578_proj.shp"
+    set hor 200
+    set ver 200
+    set baseline-light-infection 0.1427
+    set baseline-heavy-infection 0.0584
+    set baseline-tn-prev 0.0234
+    set prop-latrines 0.64
+    set humans-per-household 3.68
+    set prop-pig-owners 0.36
+    set pigs-per-household 2.44
+    set prop-corrals 0.59]
+if dataset = 579 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_579_trans.shp"
+    set hor 200
+    set ver 90
+    set baseline-light-infection 0.1909
+    set baseline-heavy-infection 0.0782
+    set baseline-tn-prev 0.0383
+    set prop-latrines 0.85
+    set humans-per-household 4.3
+    set prop-pig-owners 0.75
+    set pigs-per-household 3.07
+    set prop-corrals 0.23]
+if dataset = 580 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_580_proj_SA.shp"
+    set hor 200
+    set ver 110
+    set baseline-light-infection 0.1458
+    set baseline-heavy-infection 0.0597
+    set baseline-tn-prev 0.0241
+    set prop-latrines 0.65
+    set humans-per-household 3.77
+    set prop-pig-owners 0.40
+    set pigs-per-household 4.21
+    set prop-corrals 0.38]
+if dataset = 581 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_581_proj.shp"
+    set hor 200
+    set ver 200
+    set baseline-light-infection 0.0788
+    set baseline-heavy-infection 0.0323
+    set baseline-tn-prev 0.0121
+    set prop-latrines 0.65
+    set humans-per-household 3.93
+    set prop-pig-owners 0.60
+    set pigs-per-household 2.4
+    set prop-corrals 0.42]
+if dataset = 582 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_582_proj.shp"
+    set hor 165
+    set ver 200
+    set baseline-light-infection 0.1383
+    set baseline-heavy-infection 0.0566
+    set baseline-tn-prev 0.0223
+    set prop-latrines 0.66
+    set humans-per-household 3.64
+    set prop-pig-owners 0.54
+    set pigs-per-household 1.88
+    set prop-corrals 0.39]
+if dataset = 583 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_583_proj.shp"
+    set hor 200
+    set ver 200
+    set baseline-light-infection 0.1364
+    set baseline-heavy-infection 0.0558
+    set baseline-tn-prev 0.0219
+    set prop-latrines 0.56
+    set humans-per-household 3.62
+    set prop-pig-owners 0.47
+    set pigs-per-household 2.00
+    set prop-corrals 0.77]
+if dataset = 584 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_584_proj.shp"
+    set hor 160
+    set ver 200
+    set baseline-light-infection 0.1638
+    set baseline-heavy-infection 0.0671
+    set baseline-tn-prev 0.0290
+    set prop-latrines 0.44
+    set humans-per-household 4.13
+    set prop-pig-owners 0.39
+    set pigs-per-household 1.79
+    set prop-corrals 0.79]
+if dataset = 585 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_585_trans.shp"
+    set hor 200
+    set ver 135
+    set baseline-light-infection 0.1458
+    set baseline-heavy-infection 0.0597
+    set baseline-tn-prev 0.0241
+    set prop-latrines 0.88
+    set humans-per-household 4.04
+    set prop-pig-owners 0.60
+    set pigs-per-household 1.74
+    set prop-corrals 0.38]
+if dataset = 586 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_586_trans.shp"
+    set hor 135
+    set ver 200
+    set baseline-light-infection 0.1168
+    set baseline-heavy-infection 0.0478
+    set baseline-tn-prev 0.0179
+    set prop-latrines 0.58
+    set humans-per-household 3.71
+    set prop-pig-owners 0.63
+    set pigs-per-household 2.36
+    set prop-corrals 0.44]
+if dataset = 587 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_587_trans.shp"
+    set hor 200
+    set ver 120
+    set baseline-light-infection 0.1620
+    set baseline-heavy-infection 0.0663
+    set baseline-tn-prev 0.0285
+    set prop-latrines 0.91
+    set humans-per-household 4.34
+    set prop-pig-owners 0.66
+    set pigs-per-household 1.96
+    set prop-corrals 0.42]
+if dataset = 588 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_588_proj.shp"
+    set hor 200
+    set ver 80
+    set baseline-light-infection 0.1726
+    set baseline-heavy-infection 0.0706
+    set baseline-tn-prev 0.0317
+    set prop-latrines 0.27
+    set humans-per-household 4.29
+    set prop-pig-owners 0.52
+    set pigs-per-household 2.49
+    set prop-corrals 0.31]
+if dataset = 589 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_589_proj.shp"
+    set hor 200
+    set ver 200
+    set baseline-light-infection 0.0449
+    set baseline-heavy-infection 0.0184
+    set baseline-tn-prev 0.0086
+    set prop-latrines 0.39
+    set humans-per-household 3.43
+    set prop-pig-owners 0.52
+    set pigs-per-household 2.33
+    set prop-corrals 0.92]
+if dataset = 590 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_590_proj.shp"
+    set hor 180
+    set ver 200
+    set baseline-light-infection 0.1648
+    set baseline-heavy-infection 0.0674
+    set baseline-tn-prev 0.0293
+    set prop-latrines 0.78
+    set humans-per-household 3.86
+    set prop-pig-owners 0.39
+    set pigs-per-household 2.16
+    set prop-corrals 0.37]
+if dataset = 591 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/R01/Shapefiles/R01_591_trans.shp"
+    set hor 130
+    set ver 200
+    set baseline-light-infection 0.1006
+    set baseline-heavy-infection 0.0412
+    set baseline-tn-prev 0.0152
+    set prop-latrines 0.94
+    set humans-per-household 4.05
+    set prop-pig-owners 0.48
+    set pigs-per-household 1.95
+    set prop-corrals 0.37]
+if dataset = 8 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_008_trans.shp"
+    set hor 120
+    set ver 200
+    set baseline-light-infection 0.0391
+    set baseline-heavy-infection 0.0129
+    set baseline-tn-prev 0.0052
+    set prop-latrines 0.45
+    set humans-per-household 4.91
+    set prop-pig-owners 0.33
+    set pigs-per-household 4.38
+    set prop-corrals 0.5]
+if dataset = 9 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_009_trans.shp"
+    set hor 300
+    set ver 120
+    set baseline-light-infection 0.0271
+    set baseline-heavy-infection 0.0089
+    set baseline-tn-prev 0.001
+    set prop-latrines 0.89
+    set humans-per-household 5.18
+    set prop-pig-owners 0.48
+    set pigs-per-household 3.74
+    set prop-corrals 0.5]
+if dataset = 11 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_011_proj.shp"
+    set hor 120
+    set ver 160
+    set baseline-light-infection 0.0264
+    set baseline-heavy-infection 0.0087
+    set baseline-tn-prev 0.0031
+    set prop-latrines 0.61
+    set humans-per-household 5.13
+    set prop-pig-owners 0.47
+    set pigs-per-household 3.53
+    set prop-corrals 0.5]
+  if dataset = 12 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_012_proj.shp"
+    set hor 200
+    set ver 170
+    set baseline-light-infection 0.0234
+    set baseline-heavy-infection 0.0077
+    set baseline-tn-prev 0.0043
+    set prop-latrines 0.67
+    set humans-per-household 4.80
+    set prop-pig-owners 0.61
+    set pigs-per-household 4.11
+    set prop-corrals 0.5]
+  if dataset = 13 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_013_proj.shp"
+    set hor 200
+    set ver 180
+    set baseline-light-infection 0.0317
+    set baseline-heavy-infection 0.0105
+    set baseline-tn-prev 0.0036
+    set prop-latrines 0.74
+    set humans-per-household 4.97
+    set prop-pig-owners 0.38
+    set pigs-per-household 3.92
+    set prop-corrals 0.5]
+  if dataset = 14 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_014_proj.shp"
+    set hor 135
+    set ver 180
+    set baseline-light-infection 0.0142
+    set baseline-heavy-infection 0.0047
+    set baseline-tn-prev 0.0103
+    set prop-latrines 0.91
+    set humans-per-household 5.22
+    set prop-pig-owners 0.49
+    set pigs-per-household 3.60
+    set prop-corrals 0.5]
+  if dataset = 15 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_015_proj.shp"
+    set hor 90
+    set ver 140
+    set baseline-light-infection 0.0351
+    set baseline-heavy-infection 0.0116
+    set baseline-tn-prev 0.0043
+    set prop-latrines 0.76
+    set humans-per-household 4.75
+    set prop-pig-owners 0.59
+    set pigs-per-household 4.01
+    set prop-corrals 0.5]
+  if dataset = 16 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_016_proj.shp"
+    set hor 120
+    set ver 200
+    set baseline-light-infection 0.0325
+    set baseline-heavy-infection 0.0107
+    set baseline-tn-prev 0.0081
+    set prop-latrines 0.77
+    set humans-per-household 4.82
+    set prop-pig-owners 0.57
+    set pigs-per-household 3.04
+    set prop-corrals 0.5]
+  if dataset = 17 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_017_proj.shp"
+    set hor 100
+    set ver 130
+    set baseline-light-infection 0.0509
+    set baseline-heavy-infection 0.0168
+    set baseline-tn-prev 0.0659
+    set prop-latrines 0.86
+    set humans-per-household 5.05
+    set prop-pig-owners 0.75
+    set pigs-per-household 3.99
+    set prop-corrals 0.5]
+  if dataset = 18 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_018_trans.shp"
+    set hor 200
+    set ver 120
+    set baseline-light-infection 0.0453
+    set baseline-heavy-infection 0.0149
+    set baseline-tn-prev 0.0098
+    set prop-latrines 0.87
+    set humans-per-household 4.62
+    set prop-pig-owners 0.65
+    set pigs-per-household 4.16
+    set prop-corrals 0.5]
+  if dataset = 19 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_019_proj.shp"
+    set hor 200
+    set ver 160
+    set baseline-light-infection 0.0670
+    set baseline-heavy-infection 0.0221
+    set baseline-tn-prev 0.0075
+    set prop-latrines 0.58
+    set humans-per-household 4.52
+    set prop-pig-owners 0.44
+    set pigs-per-household 3.95
+    set prop-corrals 0.5]
+  if dataset = 20 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_020_proj.shp"
+    set hor 125
+    set ver 180
+    set baseline-light-infection 0.0448
+    set baseline-heavy-infection 0.0148
+    set baseline-tn-prev 0.0238
+    set prop-latrines 0.85
+    set humans-per-household 5.15
+    set prop-pig-owners 0.53
+    set pigs-per-household 4.80
+    set prop-corrals 0.5]
+  if dataset = 21 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_021_trans.shp"
+    set hor 100
+    set ver 165
+    set baseline-light-infection 0.0621
+    set baseline-heavy-infection 0.0205
+    set baseline-tn-prev 0.0252
+    set prop-latrines 0.58
+    set humans-per-household 5.59
+    set prop-pig-owners 0.45
+    set pigs-per-household 3.03
+    set prop-corrals 0.5]
+  if dataset = 22 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_022_trans.shp"
+    set hor 100
+    set ver 165
+    set baseline-light-infection 0.0437
+    set baseline-heavy-infection 0.0144
+    set baseline-tn-prev 0.0227
+    set prop-latrines 0.65
+    set humans-per-household 5.71
+    set prop-pig-owners 0.73
+    set pigs-per-household 4.35
+    set prop-corrals 0.5]
+  if dataset = 23 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_023_trans.shp"
+    set hor 250
+    set ver 145
+    set baseline-light-infection 0.0650
+    set baseline-heavy-infection 0.0214
+    set baseline-tn-prev 0.0068
+    set prop-latrines 0.88
+    set humans-per-household 4.75
+    set prop-pig-owners 0.73
+    set pigs-per-household 5.08
+    set prop-corrals 0.5]
+  if dataset = 24 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/Gates_024_trans.shp"
+    set hor 500
+    set ver 150
+    set baseline-light-infection 0.0431
+    set baseline-heavy-infection 0.0142
+    set baseline-tn-prev 0.0066
+    set prop-latrines 0.54
+    set humans-per-household 5.60
+    set prop-pig-owners 0.86
+    set pigs-per-household 7.73
+    set prop-corrals 0.5]
+  if dataset = 24 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/TTEMP_515.shp"
+    set hor -1000
+    set ver -1000
+    set baseline-light-infection 0.0
+    set baseline-heavy-infection 0.0
+    set baseline-tn-prev 0.02424
+    set prop-latrines 0.2941
+    set humans-per-household 3.5
+    set prop-pig-owners 0.47
+    set pigs-per-household 2.6
+    set prop-corrals 0.367]
+  if dataset = 24 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/TTEMP_566.shp"
+    set hor -1000
+    set ver -1000
+    set baseline-light-infection 0.0
+    set baseline-heavy-infection 0.0
+    set baseline-tn-prev 0.00971
+    set prop-latrines 0.719
+    set humans-per-household 3.3
+    set prop-pig-owners 0.341
+    set pigs-per-household 3.3
+    set prop-corrals 0.402]
+  if dataset = 24 [
+    set data-location "C:/Users/pray/Documents/PhD Dissertation/Aim 2C - Validation/Gates/Shapefiles/TTEMP_567.shp"
+    set hor -1000
+    set ver -1000
+    set baseline-light-infection 0.0
+    set baseline-heavy-infection 0.0
+    set baseline-tn-prev 0.0200
+    set prop-latrines 0.741
+    set humans-per-household 4.0
+    set prop-pig-owners 0.477
+    set pigs-per-household 3.5
+    set prop-corrals 0.377]
+
+end

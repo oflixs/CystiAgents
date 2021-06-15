@@ -1,0 +1,249 @@
+#############################################################
+# Copyright 2019 by Francesco Pizzitutti
+# Licensed under the Academic Free License version 3.0
+# See the file "LICENSE" for more information
+##############################################################
+#Input to TaeniaSim simulation 
+##Comments : lines starting with #, 
+#lines with only whitespaces will be ingored
+#Format: parameterName whitespace value whitespace value ....
+# no '=' signs
+#Parameters names are case sensitive
+#Comments and explanations about paramenter are shown in the lines 
+#above the paramenter input lines
+##############################################################
+#The time step of simulations is one week. Every Day is 
+#made by 24 hours, every week by 7 day = 168 hours
+#evey month by 30.41 days = 729.84 hours
+#every year by 12 month of 30.41 days = 8758.08 hours
+#and so on.....
+##############################################################
+#Number of steps (weeks) to be executed 
+#numStep 10000
+numStep 10000
+#Number of burnin steps (during burnin no statistics are 
+#accumulated) 
+burninPeriod 3500
+#determines the frequency of output file writing
+nPrint 100
+#print extended output (usefull to eliminate large outputs in ABC)
+extendedOutput true
+##############################################################
+# Households paramenters ------------------------------------
+#Proportion of households with a latrine in GOOD condition that they ALWAYS use
+#active if  readPopFromFile is false
+#(active only if readPopFromFile is set false)
+latrineUse 0.25
+#Log-mean of the radius of contamination around tapeworm carrier house (meters?)
+contRadiusMean 3.27
+#Log-SD of the radius of contamination around tapeworm carrier house (meters?)
+contRadiusSd 0.547
+#the adherence to the use the latrine even when it is in good condition 
+adherenceToLatrineUse 0.5582
+
+##############################################################
+# Humans paramenters ------------------------------------
+#Proportion of households with a frequent traveler
+#orig CistySim:
+#travelerProp 0.0
+#travelerProp 0.423
+travelerProp 0.423
+#Frequency of trips among traveler households (departure for a trip every X weeks)
+#travelFreq 8
+travelFreq 8
+#Mean (ENTER DISTRIBUTION) duration of trips 
+#travelDuration 1.75
+travelDuration 1.75
+#Incidence of taeniasis among humans traveling to other endemic areas
+travelIncidence 0.000231
+#travelIncidence 0.000231 
+#true to include traveler from outside
+strangerTraveler true
+#taeniasi prevalence of people entering in the village 
+#from external endemic areas
+baselineTnPrev 0.0225
+
+#####################################################
+#Demographic Module 
+#includes the demographic module to with emigration and natural deaths
+demoModule true
+
+#natural death rates file (in ./inputData/CystiHumans/)
+naturalDeathRatesFile naturalDeathRatesPiura.txt
+#emigration rates file (in ./inputData/CystiHumans/)
+emigrantRatesFile emigrationRatesPiura.txt
+#cumulative share of newcomers  file (in ./inputData/CystiHumans/)
+cumShareOfNewcomersFile cumShareOfNewcomers.txt
+#proportion of emigrants coming from low risk areas
+shareOfImmigrantsFromLowRiskAreas 0.05
+#shareOfImmigrantsFromLowRiskAreas 0.6
+#true if a picture of the village human status have to be taken after the
+#end of the burnin period. Warning: true will erase any other old picture
+#the resulting file will be in : ./outputs/simName/villageName
+takeTheVillagePicture true
+#period of time (in years) from one to the next village picture during the burnin period
+takeTheVillagePicturePeriod 3
+#period, during the burnin period after which the village picture 
+#bwegin to be taken (in years)
+startTakingPictures 30
+#how many picture of the village hate to be taken
+numVillagePictures 1
+#true if the village picture is read directly from the file:
+# ./outputs/simName/villageName
+readTheVillagePicture false
+
+##############################################################
+# Pigs       paramenters ------------------------------------
+#Log-mean pig age at slaughter (in months)
+slaughterAgeMean 2.279
+#Log-SD of pig age at slaughter (in months)
+slaughterAgeSd 0.515
+#Corral-use (proportion ALWAYS) among pig-owners with corrals
+#(active only if readPopFromFile is set false)
+corralAlways 0.05
+#Corral-use (proportion SOMETIMES) among pig-owners with corrals
+#(active only if readPopFromFile is set false)
+corralSometimes 0.57
+#Proportion of pigs that are corraled among households household that SOMETIMES use corral
+#(active only if readPopFromFile is set false)
+propCorralSometimes 0.32
+#Home range radius (mean) (meters?)
+homeRangeMean 3.79
+#Home range radius (sd) (meters?)
+homeRangeSd 0.552
+#Proportion of pigs that are sold prior to slaughter
+pigsSold 0.514
+#Proportion of sold pigs that are exported
+pigsExported 0.731
+#Rate of import of pigs from external communities
+#pigImportRateHousehold 0.0
+pigImportRateHousehold 0.002480
+#Prevalence of infection among pigs imported from external communities
+importPrev 0.35
+#importPrev 0.134
+#Proportion of pigs for which all meat consumed exclusively by pig-owner households
+hhOnlyPork 0.396
+#Proportion of pigs for which all meat was sold within the village (none consumed at home)
+soldPork 0.115
+
+#-----------------------------------------------------------------
+#Pig immunity parameteras ----------------------------------------
+#Immunity is used (true) or not (false) in the model
+pigsImmunity false
+#--- immunityO ----
+#adquired immunityO per week (age related)
+immunityOa 0.0
+#adquired immunityO per week per defecation site contamined with proglottids
+#to which the pig is exposed
+immunityOe 0.0
+#proportion of exposure between proglottids and eggs ( eggs exposure / proglottids exposure)
+immunitype 0.0
+#latency of immunological response immunityO after the pig exposure to eggs or proglottids
+latencyImmunityO 2
+#--- immunityI ----
+#adquired immunityI per week (age related)
+immunityIa 0.0
+#adquired immunityI per week per num of cysts in each immature development stage
+##num of immature stages is immatureCystsPeriod / latencyImmunityI
+immunityIc 1.00
+#latency of immunological response immunityO after the pig exposure to eggs or proglottids
+latencyImmunityI 2
+
+#--- immunityC ----
+#adquired immunityO per week (age related)
+immunityCa 0.0
+#increase of immunityC due to the degeneratio of one cysts
+immunityCd 0.0
+#adquired immunityC per cysts formation
+immunityCf 0.0
+#latency of immunological response after the appearence of a new mature cysts in pigs
+#or after the degeneration of an immature cyst
+latencyImmunityC 2
+
+#Pig gestation parameters
+pigsGestation true
+#duration of gestation of sows (in weeks) 3 month, 3 weeks , 3 days
+gestationTimeLenght 16 
+#age of sows sexual maturity (in weeks) 6 months
+sexualMaturityAge 26
+#period from giving to birth to the next pregnancy (in weeks) 
+betweenParityPeriod 12
+#start of zero sow immunity period after beginning of gestation (weeks)
+startSowZeroImmunity 9 
+#end of zero sow immunity period after the end of gestation (weeks)
+endSowZeroImmunity 2
+
+# Tapeworms  paramenters ------------------------------------
+#Tapeworm infection duration (mean) (months? more probable in weeks)
+tnLifespanMean 104
+#tnLifespanMean 30
+#Tapeworm infection duration (sd) (months? more probable in weeks)
+tnLifespanSd 50
+#tnLifespanSd 50 
+#Tapeworm incubation time (months? more probable in weeks)
+tnIncubation 8
+#Environmental egg decay rate parameter (probably of decay per week)
+decayMean 0.125
+#Environmental egg decay constant (week^-1) - exponential decay in time
+#this is = -ln(decayMean) wehre decay mean is the old survival probability of eggs
+decayConst 2.079
+#Duration of immature stage for cysts (weeks)
+immatureCystsPeriod 10
+
+##############################################################
+#paramenter determining the prob of seroconversion after the pig exposure
+#to eggs in the environment. Pigs exposed to proglottids are converted
+#to seropositive with prob = 1
+seroConvert 0.05722
+#--- New Cysti CystiAgent tuning parameters -----------------------------
+#proportion of pig exposure in the home range area
+pigPHomeArea 0.93
+#parameter of the poisson distribution for pig infection from proglottids
+pigProglotInf 11.23
+#parameter of the poisson distribution for pig infection from eggs
+pigEggsInf 1.15
+#probability of a human being infected upon consumption 
+#of a single cyst 
+#pHumanCyst 0.0000859
+pHumanCyst 0.000134
+
+##############################################################
+# Interventions paramenters  --------------------------------
+# intervention with true will apply interventions to the village, changing
+# accordignly the burnIn period, the number of steps
+# otherwise false
+doInterventions false
+
+# General humans intervention pramenters -----
+screenPart 0.75
+elisaSens 0.964
+screenTrtPart 0.918
+screenTrtEff 0.933
+treat1Part 0.15
+treat2Part 0.70
+treat1Eff 0.766
+treat2Eff 0.866
+treatMassPart 0.73
+treatFinalPart 0.736
+
+#General pigs intervention paramenters -------
+ageEligible 10
+treatPartP 0.9
+oxfProtection 18
+vaccPart 0.7
+vaccEff 0.99
+sacaPart 0.482
+
+#Ring strategy control intervention -------
+#meters?
+ringSize 100 
+tonguePart 0.72
+tongueSens 0.909
+tongueFp 0.021
+
+#-------------------------------------------
+#Extra parameters
+#Deterministic Individuals Allocation parameter
+deterministicIndividualsAllocation false
+#Read the population surveies data from file
+readPopFromFile true

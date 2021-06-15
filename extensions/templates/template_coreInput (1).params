@@ -1,0 +1,41 @@
+##############################################################
+# Taenia Sim World Input file
+##############################################################
+#number of steps eahc village run before sincronize with
+#the rest of the villages. 
+numStepSync 100
+##############################################################
+#name of the old CystiAgent NetLogo input file to be read 
+#to get villagbes and simulation paramenters values
+netLogoInputFile netLogoInputFile.params
+
+#swithc on (true) and off (false) the human cysticercosis component
+cystiHumans false
+
+#Read the names of villages included in the world simulation
+#only the village whose names are included in this list are simulated
+
+herevillages
+
+#villagesNames TTEMP_515
+#villagesNames TTEMP_566
+#villagesNames TTEMP_567
+#
+#villagesNames Gates_024_trans
+#villagesNames Gates_024_trans
+#villagesNames Gates_017_proj
+#villagesNames R01_582_proj
+#villagesNames Gates_008_trans Gates_009_trans 
+#villagesNames Gates_008_trans Gates_009_trans Gates_011_proj Gates_012_proj Gates_013_proj 
+
+#villagesNames Gates_008_trans R01_571_proj R01_579_trans
+#villagesNames Gates_008_trans Gates_009_trans Gates_011_proj Gates_012_proj Gates_013_proj Gates_014_proj Gates_015_proj Gates_016_proj Gates_017_proj R01_587_trans R01_588_proj R01_589_proj R01_590_proj R01_591_trans
+#villagesNames Gates_008_trans Gates_009_trans Gates_011_proj Gates_012_proj Gates_013_proj Gates_014_proj Gates_015_proj Gates_016_proj Gates_017_proj 
+
+#villagesNames Gates_008_trans Gates_009_trans Gates_011_proj Gates_012_proj Gates_013_proj Gates_014_proj Gates_015_proj Gates_016_proj Gates_017_proj Gates_018_trans Gates_019_proj Gates_020_proj Gates_021_trans Gates_022_trans Gates_023_trans Gates_024_trans R01_563_trans R01_570_trans R01_571_proj R01_572_proj R01_573_proj R01_575_trans R01_576_trans R01_577_proj R01_578_proj R01_579_trans R01_580_proj R01_581_proj R01_582_proj R01_583_proj R01_584_proj R01_585_trans R01_586_trans R01_587_trans R01_588_proj R01_589_proj R01_590_proj R01_591_trans
+
+#villagesNames Gates_008_trans Gates_009_trans R01_590_proj R01_591_trans
+#villagesNames Gates_008_trans Gates_009_trans
+
+#villagesNames Gates_008_trans Gates_009_trans Gates_011_proj Gates_012_proj Gates_013_proj Gates_014_proj Gates_015_proj Gates_016_proj Gates_017_proj Gates_018_trans Gates_019_proj Gates_020_proj Gates_021_trans Gates_022_trans Gates_023_trans Gates_024_trans R01_563_trans R01_570_trans R01_571_proj R01_572_proj R01_573_proj R01_575_trans R01_576_trans R01_577_proj R01_578_proj R01_579_trans R01_580_proj R01_581_proj R01_582_proj R01_583_proj R01_584_proj R01_585_trans R01_586_trans R01_587_trans R01_588_proj R01_589_proj R01_590_proj R01_591_trans
+#

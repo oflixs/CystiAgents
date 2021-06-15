@@ -1,0 +1,9 @@
+#variation ranges of model parameters for ABC or sensistivity analysis
+#format: parameter name lower-limit upper-limit
+#pigEggsInf 0 200.0
+#pigProglotInf 0 1500.0
+#pHumanCyst 0.0 0.001
+seroConvertEggs 0.0 1.0
+seroConvertProglottids 0.0 1.0
+seroConvertEggsPiglets 0.0 1.0
+seroConvertProglottidsPiglets 0.0 1.0

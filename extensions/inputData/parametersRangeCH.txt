@@ -1,0 +1,26 @@
+#parameters rages for ABC or sensistivity analysis
+#format: parameter name lower-limit upper-limit
+#################################################################
+# Parameters for first round of calibration for CystiHuman
+# cystiHumansSigma 0 0.0035 (keep as best estimate of range)
+cystiHumansSigma 0 0.03
+#cystiHumansSigma 0 0.035
+# cystiHumansChi 0 0.03 (keep as best estimate of range)
+cystiHumansChi 0 0.1
+#cystiHumansChi 0 0.03
+# cystiHumansa 0 1 (keep as best estimate of range)
+cystiHumansa 0 1
+#################################################################
+# Parameters for second round of calibration for CystiHuman
+# cystiHumansPiE 0 0.053 (keep as best estimate of range)
+cystiHumansPiE 0 0.1
+# cystiHumansPiEC 0 0.053 (keep as best estimate of range)
+cystiHumansPiEC 0 0.1
+# cystiHumansOmega 0 1 (keep as best estimate of range)
+cystiHumansOmega 0 0.05
+#################################################################
+# Parameters for third round of calibration for CystiHuman
+# cystiHumansKsi 0 0.08 (keep as best estimate of range)
+cystiHumansKsi 0 0.2
+# cystiHumansPiI 0 0.014 (keep as best estimate of range)
+cystiHumansPiI 0 0.05

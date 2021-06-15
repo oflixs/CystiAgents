@@ -1,0 +1,14 @@
+CystiAgents: an agent-based model to simulate Taenia Solium local-scale transmission.
+This distribution contains:
+
+1)	The CystiAgents source codes
+2)	Aggregated de-identified data to run test simulations
+3)	Files to compile and run the simulations
+4)  Source files and file to compile and run the extensions program to run the  Approximate Bayesian Computation (ABC) to calibrate the model
+
+To compile CystiAgents use the compile.sh script. The package is known to compile with Java jdk version 1.8.0_131.
+To run the simulations, edit files in params/ and then use the compile_andRun.sh script.
+
+The ABC code is in the directory extensions. Use the parameters files change the ABC configuration. Use the compile.sh script to compile and the compile_andRun.sh script to run the ABC alghritm.
+
+IMPORTANT: Please be sure to read the COPYRIGHT_NOTICE in thisdirectory before using, modifying or distributing this code.

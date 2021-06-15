@@ -1,0 +1,18 @@
+#cumulative share of all newcomers that are newborns (index 0) 
+#or in succesive age ranges (indices 1 to 15)
+0 0.5760
+1 0.6207
+2 0.6646
+3 0.7267
+4 0.7958
+5 0.8511
+6 0.9003
+7 0.9386
+8 0.9609
+9 0.9769
+10 0.9890
+11 0.9958
+12 0.9960
+13 0.9969
+14 0.9990
+15 1.0000

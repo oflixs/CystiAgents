@@ -1,0 +1,121 @@
+#############################################################
+# Copyright 2019 by Francesco Pizzitutti & Gabrielle Bonnet
+# Licensed under the Academic Free License version 3.0
+# See the file "LICENSE" for more information
+##############################################################
+#Input to cystiHuman module of T solium transmission ABM
+##Comments : lines starting with #,
+#lines with only whitespaces will be ignored
+#Format: parameterName whitespace value whitespace value ....
+# no '=' signs
+#Parameter names are case sensitive
+#Comments and explanations about parameters are shown in the lines
+#above the parameter input lines
+##############################################################
+#The time step of simulations is one week. Every Day is
+#made by 24 hours, every week by 7 day = 168 hours
+#evey month by 30.41 days = 729.84 hours
+#every year by 12 month of 30.41 days = 8758.08 hours
+#and so on.....
+##############################################################
+#human average lifespan and its variance (in years)
+humanLifespan 75 15
+#probability of seizure recurrence 2 years after a 1st seizure
+#for people with calcified NCC and AED treatment
+cystiHumansRc 0.36
+#probability of one more seizure recurrence after disappearance of the cyst
+#cystiHumansS 0.1
+cystiHumansS 0.1
+#probability to die from hydrocephalus or ICH if untreated
+cystiHumansDeathUntreat 0.36
+#
+#Model parameters that may be contextualized to periods of time and countries
+#Share of ICH cases treated in hospital that are not surgically treated
+cystiHumansAh 0.2
+#Duration of active epilepsy (weeks).
+cystiHumansTa 261
+#cystiHumansTa 261
+#Duration of treatment (weeks).
+#cystiHumansTtreat 104
+cystiHumansTtreat 261
+#Probability to die following surgical treatment of ICH/hydrocephalus (as of today)
+cystiHumansDeathSurgical 0.10
+#
+#Model parameters to be contextualized to a set of villages
+#share who seek no treatment for ICH at village level
+cystiHumansNt 0.95
+#treatment gap for epilepsy
+# cystiHumansGe 0.75
+cystiHumansGe 0.75
+#case fatality rate (per week) for active epilepsy
+cystiHumansDae 0.0000578504
+#
+
+#############################################################
+#Cysts parameters
+#cysct maturing time (weeks)
+cystiHumansTau1 13
+#probability of calcification
+#cystiHumansPCalc 0.25
+cystiHumansPCalc 0.32
+#cystiHumansPCalc 0.5
+# cystiHumansPCalc 0.8
+#Weekly probability of seizure recurrence at the calcified stage if epi
+#cystiHumansOmega 0.04
+cystiHumansOmega 0.05
+#parameters of the gamma distribution that helps compute
+#tau2+tau1 for parenchymal and extra-parenchymal lesions
+cystiHumansAlphaPar 2.94
+cystiHumansBetaPar 0.83
+cystiHumansAlphaExPar 17.21
+cystiHumansBetaExPar 1.10
+#speed of death of lesions from the start of the tau3 period (degeneration), per week
+#cystiHumansDcyst 0.026
+cystiHumansDcyst 0.026
+
+##########################################################
+#Calibration parameters
+##########################################################
+#probabilities of cyst development for humans
+#cystiHuman parameter h --- not used ---
+#cystiHumansh 0.01
+#cystiHuman parameter sigma (corresponds to sigma * h)
+#h Sigma is the probability to develop a cyst in a week if environmental density of eggs is E
+#cystiHumansSigma 0.00287
+cystiHumansSigma 0.00215
+# cystiHumansSigma 0.00131
+# cystiHumansSigma 0.000814
+ #cystiHumansSigma 0
+#cystiHuman parameter chi (corresponds to chi * h)
+#h Chi is the probability to develop a cyst in a week through self infection if has taeniasis
+# cystiHumansChi 0.0226
+ cystiHumansChi 0.0180
+# cystiHumansChi 0.0121
+# cystiHumansChi 0.00809
+# cystiHumansChi 0.0
+#cystiHuman parameter a
+#Ratio of the probability to develop a cyst when the person who prepares the food has taeniasis vs. when you have it
+# cystiHumansa 0.0541
+ cystiHumansa 0.0714
+# cystiHumansa 0.1196
+# cystiHumansa 0.0728
+# cystiHumansa 0
+#Probability for an individual parenchymal cyst to lead to epilepsy starting at the degenerating stage
+# cystiHumansPiE 0.0
+ cystiHumansPiE 0.0050
+#Probability for an individual parenchymal cyst to lead to ICH or hydrocephalus
+# cystiHumansPiI 0.0019
+ cystiHumansPiI 0.00083
+ #Probability for an individual parenchymal cyst that started triggering epileptic seizures at the non-calcified stage to continue triggering active epilepsy
+# cystiHumansPiAE 0.0
+ cystiHumansPiAE 0.406
+#Probability for an individual parenchymal cyst to lead to epilepsy starting at the calcified stage
+# cystiHumansPiEC 0.0
+ cystiHumansPiEC 0.0132
+#Share of all lesions that are extra-parenchymal and will lead to ICH or hydrocephalus
+# cystiHumansKsi 0.0
+ cystiHumansKsi 0.0108
+# Change to 1 if you want to work without emigrants (for calibration)
+cystiHumansTurnEmigrantsOff 0
+#Change to 0 if you want to have module 1 (without extra-parenchymal cysts) alone.
+cystiHumansModule2 1
